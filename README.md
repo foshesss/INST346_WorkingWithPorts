@@ -1,9 +1,9 @@
 # INST346 - “Mess with Ports” Assignment
 This assignment is apart of the 'Introduction to Port Numbers' module. It is meant to strengthen students' comfortability with working with the terminal and act as an introduction to starting, viewing, and killing tasks on specific ports.
 
-To clone this repository:
+To clone this repository, execute this command in your terminal:
 ```git
-git clone <link>
+git clone https://github.com/foshesss/INST346_WorkingWithPorts
 ```
 
 Then, open the repository in a text editor of your choice.
